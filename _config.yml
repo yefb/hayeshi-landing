@@ -1,0 +1,21 @@
+title: Hayeshi
+description: Building thoughtful software.
+baseurl: ""
+url: "https://hayeshi.com"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: pretty
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git
+  - .gitignore
