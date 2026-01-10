@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: Terms of Service
 ---
 
 # Terms of Service
 
-**Last updated:** January 2025
+**Last updated:** January 2026
 
 These Terms of Service ("Terms") govern your use of the websites and services operated by Hayeshi S.A.S. ("we", "our", or "us").
 

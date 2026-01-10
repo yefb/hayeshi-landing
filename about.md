@@ -1,23 +1,33 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
 # About Hayeshi
 
-Hayeshi S.A.S. is an indie software company founded in Colombia.
+Hayeshi is an indie software studio based in Medellín, Colombia. We build privacy-first apps that respect your time and data.
 
-We build products that respect user privacy and focus on core functionality. Our philosophy is inspired by independent developers who prioritize quality over growth-at-any-cost.
+## Our Philosophy
 
-Our first app, **GardenOS**, launches in early 2025 - a privacy-first plant care journal for iOS.
+We believe great software should be:
 
-## Our Approach
+- **Private by default** — Your data belongs to you, not us
+- **Focused** — Do one thing well, without feature bloat
+- **Sustainable** — Built to last, not to flip
 
-We believe in building sustainable software that serves real needs without compromising on quality or ethics. No venture capital, no data mining, no shortcuts.
+No venture capital. No growth hacking. No data mining. Just thoughtful software that solves real problems.
 
-## Founded
+## Our Apps
 
-Hayeshi S.A.S. was established in Colombia and operates internationally, with a focus on creating products that make a lasting positive impact.
+**GardenOS** is our first app — a beautiful journal for plant lovers. Track your plants' growth, capture moments, and build a record that stays entirely on your device.
+
+[Learn more about GardenOS →](https://gardenos.app)
+
+## Contact
+
+Questions or feedback? We'd love to hear from you.
+
+**Email:** support@hayeshi.com
 
 ---
 

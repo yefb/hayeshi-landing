@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: Privacy Policy
 ---
 
 # Privacy Policy
 
-**Last updated:** January 2025
+**Last updated:** January 2026
 
 Hayeshi S.A.S. ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our website and services.
 
